@@ -126,6 +126,13 @@
             <template>%TIME%</template>
             <align>bottom,hcenter</align>
         </clock>
+
+        <textarea name="channel">
+            <area>900,10,280,70</area>
+            <font>medium</font>
+            <align>allcenter</align>
+        </textarea>
+
     </window>
 
     <window name="osd_status">
